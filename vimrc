@@ -11,6 +11,7 @@ syntax on
 set number                  " line numbers
 set textwidth=70
 set hlsearch                " highlight searches
+set incsearch
 set cursorline              " highlight current line
 set scrolloff=5             " keep at least five lines above/below
 set showcmd                 " show commands as you type
